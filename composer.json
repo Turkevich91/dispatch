@@ -1,0 +1,19 @@
+{
+    "name": "vitalii/dispatch",
+    "require": {
+        "symfony/symfony": "^3.3",
+        "symfony/http-foundation": "^3.3",
+        "php": ">=7.0"
+    },
+    "authors": [
+        {
+            "name": "Vitaliy Turkevich",
+            "email": "vetalturkevich@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dispatch\\": ""
+        }
+    }
+}
